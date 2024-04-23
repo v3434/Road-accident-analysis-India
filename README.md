@@ -11,8 +11,6 @@ Transportation Authorities: Identifying accident hotspots and vulnerable demogra
 2.Automobile Industry: Understanding accident types involving different vehicle types can guide the development of safer vehicles and technologies.
 3.Public Awareness: Disseminating project findings can educate the public about safe driving practices and encourage responsible road usage.
 
-## Data Visualization 
-
 ## Data Understanding
 The project will utilize a dataset containing historical road accident data from India.  
 * Traffic Volume: Lockdown's accident drop highlights strong correlation with traffic volume.
