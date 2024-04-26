@@ -38,4 +38,5 @@ The initial phase will involve cleaning the data, handling missing values, and p
 ![Screenshot 2024-04-21 151626](https://github.com/v3434/Road-accident-analysis-India/assets/70278692/3aaad6b1-69a0-409a-beca-c546a082b289)
 
 ## Conclusion
-Analyzing India's road accident trends reveals crucial insights. Data-driven strategies and targeted interventions can create safer roads and promote responsible driving. This project showcases data analytics' power to tackle social issues and build a safer future.
+Analyzing India's road accident trends reveals crucial insights. Data-driven strategies and targeted interventions can create safer roads and promote responsible driving. This project showcases data analytics' power to tackle social issues and build a safer future. 
+Visit this blog for Detailed analysis report : https://medium.com/@srihemampuja142/breaking-down-indias-road-accidents-a-data-driven-look-48d5bb993c05
