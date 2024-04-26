@@ -31,5 +31,11 @@ The project will utilize a dataset containing historical road accident data from
 ## Data Cleaning and Preparation
 The initial phase will involve cleaning the data, handling missing values, and potentially transforming data points into usable formats for analysis.EDA and data preparation was performed using Excel.A limited amount of data was scraped from reports and PDFs, then transformed for analysis using Power BI.
 
+## Data Visualization Dashboards and Report
+![Screenshot 2024-04-21 150725](https://github.com/v3434/Road-accident-analysis-India/assets/70278692/83a278a6-271e-4b7d-b43b-dbc9b919717c)
+![Screenshot 2024-04-21 151310](https://github.com/v3434/Road-accident-analysis-India/assets/70278692/4db6ce4b-ad71-4bfe-aa7d-ffc0af58edb7)
+![Screenshot 2024-04-21 151424](https://github.com/v3434/Road-accident-analysis-India/assets/70278692/f1e89d92-1adc-4aea-9ab8-65c132028061)
+![Screenshot 2024-04-21 151626](https://github.com/v3434/Road-accident-analysis-India/assets/70278692/3aaad6b1-69a0-409a-beca-c546a082b289)
+
 ## Conclusion
 Analyzing India's road accident trends reveals crucial insights. Data-driven strategies and targeted interventions can create safer roads and promote responsible driving. This project showcases data analytics' power to tackle social issues and build a safer future.
